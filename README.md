@@ -1,7 +1,7 @@
 # AI-Programming-Fundamentals-Lab-3-
 Learning GitHub
 # 1
-**Who knows** ,I **CERTAINLY** don't 
+**Who knows?** ,I _CERTAINLY_ don't 
 <br/>
 _This is seems good_
 ~~
