@@ -1,12 +1,12 @@
 # AI-Programming-Fundamentals-Lab-3-
 Learning GitHub
 # 1
-**Who knows** I don't 
+**Who knows** I **CERTAINLY** don't 
 <br/>
-_This is nice_
+_This is seems good_
 ~~
-Unordered list
 <br/>
 - List A
 - List J
 - List V
+### Learning ig
