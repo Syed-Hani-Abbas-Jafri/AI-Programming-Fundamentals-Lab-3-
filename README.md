@@ -10,7 +10,5 @@ _This is seems good_
 - List J
 - List V
 ### Learning ig
-
-<br/>
 1. UNGOC
 2. fjdjf
