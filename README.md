@@ -11,4 +11,5 @@ _This is seems good_
 - List V
 ### Learning ig
 1. UNGOC
-2. fjdjf
+2. SCIRI
+3. Iscariot
