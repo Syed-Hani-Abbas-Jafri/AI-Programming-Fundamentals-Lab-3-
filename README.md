@@ -13,5 +13,4 @@ _This is seems good_
 
 <br/>
 1. UNGOC
-2. SCIRI
-3. Iscariot
+2. fjdjf
